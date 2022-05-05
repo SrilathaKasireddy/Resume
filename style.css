@@ -1,0 +1,67 @@
+.container{
+ background-color: rgb(69, 68, 68);
+ text-align:center;
+  padding-top:50px;
+  padding-bottom:50px;
+  margin-top:20px;
+  
+}
+
+.address{
+ text-align:center;
+     width: 74%;
+     margin: auto;
+     border-bottom: 1px solid lightgrey;
+
+ 
+
+}
+  
+img{
+ 
+  width: 250px;
+  height: 200px;
+  border-radius:100%;
+  border: 6px dotted rgb(232, 205, 71);
+  
+}
+
+h1{
+width:500px;
+ padding-top:10px;
+ padding-bottom:40px;
+ margin-top:-150px;
+ margin-bottom:50px;
+ transform: translateX(525px);
+ font-size:60px;
+ border-radius:5px;
+ text-align:center;
+ background-color:rgb(233, 168, 63);
+ 
+
+}
+
+
+i{
+ background-color:rgb(233, 168, 63);
+ border:5px dotted rgb(103, 99, 93);
+ border-radius:5px;
+}
+
+
+
+
+
+@media screen and (max-width:800px ){
+  h1{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: contents;
+    font-size: 80px;
+    color: rgb(233, 168, 63);
+ 
+  }
+  
+
+}
